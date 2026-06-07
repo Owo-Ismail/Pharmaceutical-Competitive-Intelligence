@@ -46,3 +46,14 @@ The goal was to determine where sales resources should be invested to maximize f
 ## Business Impact
 
 Supports sales force optimization and resource allocation decisions.
+
+## Skills Demonstrated
+
+- Power BI
+- DAX
+- Power Query
+- Data Modelling
+- KPI Development
+- Competitive Intelligence
+- Data Visualization
+- Business Intelligence

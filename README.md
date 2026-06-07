@@ -31,11 +31,11 @@ The goal was to determine where sales resources should be invested to maximize f
 
 ### Executive Overview
 
-![Executive Overview](dashboard-screenshots/Executive-Overview.png)
+![Executive Overview](dashboard-screenshots/Executive-Overview..png.png)
 
 ### Product Perfromance
 
-![Product Performance](Dashboard-Screenshots/Product-Performance.png)
+![Product Performance](Dashboard-Screenshots/Product-Performance.png.png)
 
 ## Key Insights
 

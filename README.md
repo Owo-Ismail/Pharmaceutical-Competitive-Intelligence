@@ -150,57 +150,6 @@ Implemented a Star Schema model consisting of:
 
 ---
 
-## DAX Highlights
-
-### Growth Gap
-
-```DAX
-Growth Gap =
-[Empa Growth] - [Dapa Growth]
-```
-
-### Dynamic Share
-
-```DAX
-Dynamic Share =
-[Empa Share 2026] + [Dapa Share 2026]
-```
-
-### DS Delta
-
-```DAX
-DS Delta =
-[Dynamic Share 2026] - [Dynamic Share 2025]
-```
-
-### Sum Rank
-
-```DAX
-Sum Rank =
-[Abs Rank]
-+
-[Dynamic Share Rank]
-+
-[DS Delta Rank]
-+
-[Size Rank]
-```
-
-### Rank Rank
-
-```DAX
-Rank Rank =
-RANKX(
-    ALL('Monthly DOT Sales'[Territory 2026]),
-    [Sum Rank],
-    ,
-    ASC,
-    DENSE
-)
-```
-
----
-
 # Dashboard Pages
 
 ### 1️⃣ Executive Overview

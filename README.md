@@ -1,4 +1,4 @@
-# 📊 Pharmaceutical Competitive Intelligence & Market Share Analysis Dashboard
+# 📊 Pharmaceutical Competitive Intelligence
 
 ## Project Overview
 
@@ -203,19 +203,19 @@ RANKX(
 
 # Dashboard Pages
 
-## 1️⃣ Executive Overview
+### 1️⃣ Executive Overview
 
-## 2️⃣ Territory Ranking Dashboard
+### 2️⃣ Territory Ranking Dashboard
 
-## 3️⃣ GeoTeam & Regional Performance
+### 3️⃣ GeoTeam & Regional Performance
 
-## 4️⃣ Brick Opportunity Analysis
+### 4️⃣ Brick Opportunity Analysis
 
-## 5️⃣ Product Performance Dashboard
+### 5️⃣ Product Performance Dashboard
 
-## 6️⃣ Sales Force Performance
+### 6️⃣ Sales Force Performance
 
-## 7️⃣ Competitive Intelligence Dashboard
+### 7️⃣ Competitive Intelligence Dashboard
 
 ---
 

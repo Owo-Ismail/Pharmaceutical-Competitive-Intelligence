@@ -243,8 +243,6 @@ The dashboard enables commercial leadership to:
 
 ## Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
-
 ### Executive Overview
 
 ![Executive Overview](Dashboard-Screenshots/Executive-Overview.png.png)

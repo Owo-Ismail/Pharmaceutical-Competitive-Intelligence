@@ -267,6 +267,7 @@ Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
 - LinkedIn: www.linkedin.com/in/ismail-owolabi
 - GitHub: github.com/Owo-Ismail
+- Email: owo.ismail@gmail.com
 
 ---
 
